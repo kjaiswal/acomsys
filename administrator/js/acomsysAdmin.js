@@ -1,7 +1,7 @@
-var acomsysAdminSignUp = angular.module("acomsysAdminSignUp", []);
+var acomsysAdminSignUpApp = angular.module("acomsysAdminLoginApp", []);
 
 
-acomsysAdminSignUp.controller('adminSignupController', ['$scope', function($scope){
+acomsysAdminSignUp.controller('adminLoginController', ['$scope', function($scope){
     $scope.log = function() {
 	console.log($scope.emailAddress);
     }
