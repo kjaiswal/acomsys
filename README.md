@@ -1,1 +1,1 @@
-Acomsys - A content management system using Angular.JS
+Acomsys - A content management system using Angular
